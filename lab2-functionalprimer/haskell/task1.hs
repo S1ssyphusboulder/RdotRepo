@@ -1,8 +1,9 @@
 module Main where
-
+oneplusone = "1 + 1 = 2"
 main =
     do
     print (myFunc1 5)
+    print (oneplusone)
     --print (MyFunc2 10)
     --print (3rdFunc)
 
